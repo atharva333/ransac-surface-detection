@@ -37,7 +37,7 @@ Disparity map obtained from SGBM, lighter colours are closer to camera and darke
 
 * The plane was drawn using a convex hull of all the points on the plane. Obstacles were shown using the points in the convex hull that had a disparity that was significantly different from the rest of the points in the convex hull. 
 
-![Obstacle](https://github.com/atharva333/ransac-surface-detection/blob/master/images/obstacle.png
+![Obstacle](https://github.com/atharva333/ransac-surface-detection/blob/master/images/obstacle.png)
 Example of obstacle detection with pedestrian and traffic cone 
 
 
