@@ -183,7 +183,7 @@ def applyMask(img):
 
     # Read file for mask
 
-    mask = cv2.imread("cpqr93disparity-mask.png", 1)
+    mask = cv2.imread("mask.png", 1)
     mask = cv2.cvtColor(mask,cv2.COLOR_BGR2GRAY)
 
     #cv2.imshow("Mask", mask)
